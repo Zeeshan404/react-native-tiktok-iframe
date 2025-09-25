@@ -75,4 +75,4 @@ export default function App() {
 
 ## 📄 License
 
-MIT
+[MIT](https://choosealicense.com/licenses/mit/)

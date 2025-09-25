@@ -175,7 +175,6 @@ const TikTokEmbedPlayer = forwardRef<TikTokEmbedRef, Props>(({
                         onMute && onMute(data.muted);
                         break;
                     case 'onVolumeChange':
-                        console.log('event', data)
                         onVolumeChange && onVolumeChange(data.volume);
                         break;
                     case 'onError':
