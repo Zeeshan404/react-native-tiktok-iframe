@@ -12,11 +12,19 @@
   ],
   "keywords": [
     "react-native",
+    "react-component",
+    "react-native-component",
+    "react",
+    "react native",
+    "embed",
+    "player",
+    "mobile",
+    "ios",
+    "android",
+    "ui",
     "tiktok",
     "iframe",
-    "embed",
-    "webview",
-    "player"
+    "tiktok-iframe"
   ],
   "peerDependencies": {
     "react": "*",
