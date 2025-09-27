@@ -1,6 +1,6 @@
 {
   "name": "@zeeshan404/react-native-tiktok-iframe",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "React Native TikTok embedded player using iframe (WebView)",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
