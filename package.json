@@ -40,5 +40,10 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/zeeshan404/react-native-tiktok-iframe.git"
+  },
+  "devDependencies": {
+    "@types/react": "^19.1.14",
+    "@types/react-native": "^0.72.8",
+    "typescript": "^5.9.2"
   }
 }
