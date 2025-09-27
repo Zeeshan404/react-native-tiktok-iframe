@@ -25,7 +25,11 @@
     "ui",
     "tiktok",
     "iframe",
-    "tiktok-iframe"
+    "tiktok-iframe",
+    "react-native-tiktok-iframe",
+    "react native tiktok iframe",
+    "react native tiktok",
+    "react-native-tiktok"
   ],
   "peerDependencies": {
     "react": "*",
